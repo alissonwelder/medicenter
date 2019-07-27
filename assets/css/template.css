@@ -265,7 +265,13 @@ footer .widget_title_text {
 	font-size:12px;
 	margin-top:30px;
 }
-
+.footer_copy a {
+	text-decoration: none;
+	color: #5c5c5c;
+}
+.footer_copy a:hover{
+	color:#FFF;
+}
 .menuMobile {
 	display: none;
 	width:40px;
